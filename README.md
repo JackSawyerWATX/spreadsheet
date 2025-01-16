@@ -40,7 +40,7 @@ This project implements a custom spreadsheet functionality using JavaScript, all
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/JackSawyerWATX/spreadsheet
    ```
 2. Navigate to the project directory:
    ```bash
